@@ -28,11 +28,72 @@ We target this course to those with some degree of comfort programming (in Pytho
 Course Outline
 --------------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Motivation for using C/C++; discussion of where C and C++ sit in the abstraction hierarchy; writing our first C programs |
-| 2 | The logistics of memory manipulation in C (pointers, structs) |
-| 3 | More advanced memory manipulation in C. We'll show double linked-list insert in place, inserting into a linked list using a double pointer, corner cases of using memory (when we actually need heap allocation), etc. |
-| 4 | Introduction to C++; encapsulation: classes, namespaces, constructors and destructors; memory management in C++ (new, delete); operator overloading and standard input/output |
-| 5 | Inheritance and polymorphism; templates; standard library containers |
-| 6 | Tricks of the trade. Things people might see in interviews, etc. Review and discussion of the covered topics, Q&A.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Motivation for using C/C++; discussion of where C and C++ sit in the abstraction hierarchy; writing our first C programs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The logistics of memory manipulation in C (pointers, structs)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+More advanced memory manipulation in C. We'll show double linked-list insert in place, inserting into a linked list using a double pointer, corner cases of using memory (when we actually need heap allocation), etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to C++; encapsulation: classes, namespaces, constructors and destructors; memory management in C++ (new, delete); operator overloading and standard input/output
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Inheritance and polymorphism; templates; standard library containers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Tricks of the trade. Things people might see in interviews, etc. Review and discussion of the covered topics, Q&A.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

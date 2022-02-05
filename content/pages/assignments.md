@@ -4,13 +4,84 @@ title: Assignments
 uid: b2fe6f42-3ae4-25b1-24ae-8a0145f03914
 ---
 
-| SES # | ASSIGNMENTS | SUPPORTING FILES |
-| --- | --- | --- |
-| 1 | Introduction to C | hello\_world.c ([C](/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/assignments/hello_world.c)) |
-| 2 | Introduction to C memory management | ([ZIP]({{< baseurl >}}/resources/assn02)) (This ZIP file contains: 2 .c files and 1 .h file.) |
-| 3 | More C memory management | ([ZIP]({{< baseurl >}}/resources/assn03)) (This ZIP file contains: 1 .c files and 1 .h file.) |
-| 4 | Introduction to C++ | ([ZIP]({{< baseurl >}}/resources/assn04)) (This ZIP file contains: 1 .cc files and 1 .h file.) |
-| 5 | Inheritance and polymorphism | ([ZIP]({{< baseurl >}}/resources/assn05)) (This ZIP file contains: 1 .cc files and 1 .h file.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to C
+{{< tdclose >}}
+{{< tdopen >}}
+hello\_world.c ([C](/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/assignments/hello_world.c))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to C memory management
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn02)) (This ZIP file contains: 2 .c files and 1 .h file.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+More C memory management
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn03)) (This ZIP file contains: 1 .c files and 1 .h file.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to C++
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn04)) (This ZIP file contains: 1 .cc files and 1 .h file.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Inheritance and polymorphism
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn05)) (This ZIP file contains: 1 .cc files and 1 .h file.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignment 1: Introduction to C
 -------------------------------
